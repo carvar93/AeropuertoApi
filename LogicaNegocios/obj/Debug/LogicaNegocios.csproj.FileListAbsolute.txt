@@ -1,0 +1,64 @@
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\obj\Debug\LogicaNegocios.csprojAssemblyReference.cache
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\snappy32.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\snappy64.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\libzstd.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\mongocrypt.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\AccesoDatos.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\Entidades.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.Driver.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.Bson.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.LibMongocrypt.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\DnsClient.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\SharpCompress.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\System.Buffers.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\AccesoDatos.pdb
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\AccesoDatos.dll.config
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\Entidades.pdb
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\Entidades.dll.config
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.Driver.xml
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.Bson.xml
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\DnsClient.xml
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\System.Buffers.xml
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto1 Programacion Avanzada\ProyectoAeropuertoApi\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CopyComplete
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\snappy32.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\snappy64.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\libzstd.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\mongocrypt.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\AccesoDatos.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\Entidades.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.Driver.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.Bson.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.LibMongocrypt.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\DnsClient.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\SharpCompress.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\System.Buffers.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\AccesoDatos.pdb
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\AccesoDatos.dll.config
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\Entidades.pdb
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\Entidades.dll.config
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.Driver.xml
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\MongoDB.Bson.xml
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\DnsClient.xml
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\System.Buffers.xml
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\obj\Debug\LogicaNegocios.csprojAssemblyReference.cache
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CopyComplete
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+C:\Users\cavu9\OneDrive\Escritorio\ProyectoAeropuertoApi\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
